@@ -1,0 +1,7 @@
+basic 4d-polytopes explorer with 6 planes, XY, XZ, XU, YZ, YU, ZU.
+by qube81  http://github.com/qube81/VirtualSolid4D
+
+
+-USAGE
+$ javac main4D.java
+$ appletviewer main4D.java
